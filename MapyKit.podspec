@@ -1,5 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'MapyKit'
+  s.version          = '1.0.0'
   s.summary          = 'Native Mapy.cz maps SDK'
 
   s.description      = <<-DESC
