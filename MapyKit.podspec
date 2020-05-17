@@ -14,9 +14,9 @@ MapyKit supports multiple map types such as Tourist, Satelite or even Winter.
   s.homepage         = 'https://github.com/josefdolezal/MapyKit'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'josefdolezal' => 'pepik.ml@gmail.com' }
-  s.source           = { :git => 'https://github.com/josefdolezal/MapyKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/josefdolezal/MapyKit.git', :branch => 'master' }
   s.social_media_url = 'https://twitter.com/josefdolezal'
-  s.swift_version    = '4.0'
+  s.swift_version    = '5.0'
 
   s.ios.deployment_target = '9.0'
 
